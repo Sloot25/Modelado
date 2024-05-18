@@ -1,0 +1,18 @@
+[submodule "ModeladoPractica1"]
+	path = ModeladoPractica1
+	url = git@github.com:Sloot25/ModeladoPractica1.git
+[submodule "Practica2_Modelado"]
+	path = Practica2_Modelado
+	url = git@github.com:Sloot25/Practica2_Modelado.git
+[submodule "ModeladoPractica3"]
+	path = ModeladoPractica3
+	url = git@github.com:Sloot25/ModeladoPractica3.git
+[submodule "ModeladoPractica4"]
+	path = ModeladoPractica4
+	url = git@github.com:Sloot25/ModeladoPractica4.git
+[submodule "ModeladoProyecto1"]
+	path = ModeladoProyecto1
+	url = git@github.com:Sloot25/ModeladoProyecto1.git
+[submodule "ModeladoProyecto2"]
+	path = ModeladoProyecto2
+	url = git@github.com:Sloot25/ModeladoProyecto2.git
